@@ -2,8 +2,15 @@
 <database>
     <element label="Marketing Event" max_length="40" name="x_31155_marketing_marketing_event" type="collection">
         <element label="Budget" max_length="40" name="budget" type="currency"/>
-        <element choice="1" label="City" max_length="40" name="city" type="choice">
-            <choice/>
+        <element choice="1" label="City" mandatory="true" max_length="40" name="city" type="choice">
+            <choice>
+                <element label="Dallas" sequence="0" value="dallas"/>
+                <element label="Kansas City" sequence="1" value="kansas_city"/>
+                <element label="London" sequence="2" value="london"/>
+                <element label="San Jose" sequence="3" value="san_jose"/>
+                <element label="Portland" sequence="4" value="portland"/>
+                <element label="Sydney" sequence="5" value="Sydney"/>
+            </choice>
         </element>
         <element label="End date" max_length="40" name="end_date" type="glide_date"/>
         <element display="true" label="Name" max_length="40" name="name" type="string"/>
