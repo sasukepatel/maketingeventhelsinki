@@ -52,7 +52,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-12 13:34:50</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>18e2ce90dbc42e00ecc4722ebf961988</sys_id>
+        <sys_id>5d1599a0dbc82e00ecc4722ebf961968</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sponsor</sys_name>
         <sys_package display_value="Marketing Events Application" source="x_31155_marketing">8117fc18db442e00ecc4722ebf9619c5</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Marketing Events Application">8117fc18db442e00ecc4722ebf9619c5</sys_scope>
         <sys_update_name>sys_dictionary_x_31155_marketing_marketing_event_sponsor</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-06-12 14:01:57</sys_updated_on>
+        <sys_updated_on>2016-06-13 05:20:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
