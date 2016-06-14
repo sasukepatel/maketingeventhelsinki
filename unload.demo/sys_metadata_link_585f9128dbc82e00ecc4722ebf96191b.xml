@@ -84,7 +84,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-13 06:04:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>585f9128dbc82e00ecc4722ebf96191b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AV</sys_name>
