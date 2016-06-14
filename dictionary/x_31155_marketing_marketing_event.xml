@@ -14,6 +14,8 @@
         </element>
         <element label="End date" max_length="40" name="end_date" type="glide_date"/>
         <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Number of attendees expected" max_length="40" name="number_of_attendees_expected" type="integer"/>
+        <element label="Number of attendees registered" max_length="40" name="number_of_attendees_registered" type="integer"/>
         <element label="Sponsor" max_length="40" name="sponsor" type="string"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
     </element>
